@@ -1,1 +1,3 @@
-# static-files-host
+# thirdparty-host
+
+第三方包分发。
